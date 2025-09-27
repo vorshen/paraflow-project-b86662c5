@@ -1,0 +1,24 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "1"
+  },
+  "orderIndex": "gg==",
+  "title": "persona_emerging_developer.md",
+  "relativeTransform": {
+    "x": 1620.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Global Context/persona_emerging_developer.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "Ea9ndOLwBreb-vZiBAESxGWmtPt4dLDPj-_9N3nj3wE",
+    "contentLength": 2277,
+    "assetSize": {
+      "width": 720
+    }
+  },
+  "id": "5:1"
+}

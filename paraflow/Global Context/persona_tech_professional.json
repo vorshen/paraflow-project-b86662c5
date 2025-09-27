@@ -1,0 +1,24 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "1"
+  },
+  "orderIndex": "gQ==",
+  "title": "persona_tech_professional.md",
+  "relativeTransform": {
+    "x": 860.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Global Context/persona_tech_professional.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "RDgD4wkxEiGQjaA5QWF9ljYQkdlLRCKp466oGZtzYGQ",
+    "contentLength": 2389,
+    "assetSize": {
+      "width": 720
+    }
+  },
+  "id": "4:1"
+}
